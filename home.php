@@ -45,7 +45,7 @@
 				<hr>
 
 			<div class="container marketing">
-
+			<h2 class="mb-4">Here's Some Recomendation</h2>
 				<!-- Three columns of text below the carousel -->
 				<div class="row">
 					<div class="col-lg-4">
@@ -67,9 +67,9 @@
 							preserveAspectRatio="xMidYMid slice" focusable="false">
 							<title>Placeholder</title>
 							<rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
-							<image xlink:href="images/seafood.jpg" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
+							<image xlink:href="images/westernfood.webp" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
 						</svg>
-						<h2 class="fw-normal">Seafood</h2>
+						<h2 class="fw-normal">Western Food</h2>
 						<p>Another exciting bit of representative placeholder content. This time, we've moved on to the
 							second column.</p>
 						<p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
@@ -80,9 +80,9 @@
 							preserveAspectRatio="xMidYMid slice" focusable="false">
 							<title>Placeholder</title>
 							<rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
-							<image xlink:href="images/healtyfood.png" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
+							<image xlink:href="images/indonesiafood.webp" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
 						</svg>
-						<h2 class="fw-normal">Healty Food</h2>
+						<h2 class="fw-normal">indonesian food</h2>
 						<p>And lastly this, the third column of representative placeholder content.</p>
 						<p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
 					</div><!-- /.col-lg-4 -->

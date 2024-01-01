@@ -6,12 +6,7 @@
 		</button>
 	</div>
 	<div class="p-4">
-		<div class="text-center p-t-136">
-			<a class="txt2" href="login/login.php" style="color:white">
-				have an account?
-				<i class="m-l-5" aria-hidden="true"></i>
-			</a>
-		</div>
+		
 		<div class="img bg-wrap text-center py-4 pt-2" style="background-image: url(images/bg_foto2.webp);">
 			<div class="user-logo">
 				<div class="img" style="background-image: url(images/profilkosong.jpg);"></div>
@@ -30,7 +25,13 @@
 				<a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Resep</a>
 				<ul class="collapse list-unstyled" id="homeSubmenu">
 					<li>
-						<a href="makanan.php">makanan</a>
+						<a href="makanan.php">masakan indonesia</a>
+					</li>
+					<li>
+						<a href="westernfood.php">western food</a>
+					</li>
+					<li>
+						<a href="makananringan.php">makanan ringan</a>
 					</li>
 					<li>
 						<a href="dessert.php">dessert</a>

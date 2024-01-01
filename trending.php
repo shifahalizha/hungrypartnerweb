@@ -66,7 +66,7 @@
                                             <p class="font-italic text-muted mb-0 small">
                                                 <?= $recipe['caption'] ?>
                                             </p>
-                                        </div><img src="images/bg_foto2.webp" alt="<?= $recipe['nama_menu'] ?>" width="200"
+                                        </div><img src="<?= $recipe['foto'] ?>" alt="<?= $recipe['nama_menu'] ?>" width="200"
                                             class="ml-lg-5 order-1 order-lg-2">
                                     </div> <!-- End -->
                                 </li> <!-- End -->

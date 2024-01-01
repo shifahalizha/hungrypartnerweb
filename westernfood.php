@@ -22,7 +22,7 @@
     <div>
         <?php
         include('auth/config.php');
-        $recipes = getallrecipes();
+        $recipes = getallwestern();
         ?>
     </div>
     <div class="wrapper d-flex align-items-stretch">
@@ -34,12 +34,12 @@
         <div id="content" class="p-4 p-md-5 pt-5">
             <div class="row text-center text-white mb-5">
                 <div class="col-lg-7 mx-auto">
-                    <h1 class="display-4 my-3">menu</h1>
+                    <h1 class="display-4 my-3">Western food</h1>
                     <h2 class="mb-4" style="font-size: 20px;">ingin masak apa hari ini?</h2>
                 </div>
             </div>
             <div class="row">
-                <form action="makanan.php" method="get">
+                <form action="westernfood.php" method="get">
                     <div class="row col-12 col-md-6 col-lg-12 mx-auto">
                         <div class="input-group input-group-sm mb-3">
                             <input name="search" type="text" class="form-control" placeholder="cari resep">
@@ -61,7 +61,7 @@
                                         <div class="media align-items-lg-center flex-column flex-lg-row p-3">
                                             <div class="media-body order-2 order-lg-1">
                                                 <h5 class="mt-0 font-weight-bold mb-2"><a class="text-dark"
-                                                        href="detailmakanan.php?id=<?= $recipe['id'] ?>">
+                                                        href="detailwestern.php?id=<?= $recipe['id'] ?>">
                                                         <?= $recipe['nama_menu'] ?>
                                                     </a></h5>
                                                 <p class="font-italic text-muted mb-0 small">

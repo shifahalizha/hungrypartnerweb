@@ -20,7 +20,7 @@
         ?>
     </div>
     <nav class="navbar navbar-light" style="background-color: #7E30E1">
-        <span class="navbar-brand mb-0 h1">
+        <span class="navbar-brand mb-0 h1 text-white">
             <?= $recipes->nama_menu ?>
         </span>
     </nav>
@@ -28,7 +28,7 @@
 
     <div class="container pt-5">
         <div>
-            <img src="images/bg_foto2.webp" alt="<?= $recipe['nama_menu']?>" width="800">
+            <img src="<?= $recipes->foto ?>" alt="<?= $recipe['nama_menu']?>" width="500">
             <h2 style="font-size: 15px" class="pt-5" >bahan-bahan yang diperlukan</h2>
             <?= $recipes->bahan ?>
             <h2 style="font-size: 15px">cara membuat</h2>

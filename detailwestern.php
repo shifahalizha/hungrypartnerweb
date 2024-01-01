@@ -16,11 +16,11 @@
     <div>
         <?php
         include('auth/config.php');
-        $recipes = getdetailrecipes();
+        $recipes = getdetailwestern();
         ?>
     </div>
     <nav class="navbar navbar-light" style="background-color: #7E30E1">
-        <span class="navbar-brand mb-0 h1 text white">
+        <span class="navbar-brand mb-0 h1 text-white">
             <?= $recipes->nama_menu ?>
         </span>
     </nav>
