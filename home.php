@@ -57,9 +57,8 @@
 							<image xlink:href="images/makananringan.webp" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
 						</svg>
 						<h2 class="fw-normal">Makanan Ringan</h2>
-						<p>Some representative placeholder content for the three columns of text below the carousel.
-							This is the first column.</p>
-						<p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+						<p>Temukan keajaiban di dapur dengan resep makanan ringan yang lezat dan mudah dibuat.</p>
+						<p><a class="btn btn-secondary" href="makananringan.php">View details</a></p>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-lg-4">
 						<svg class="bd-placeholder-img rounded-circle" width="140" height="140"
@@ -70,9 +69,8 @@
 							<image xlink:href="images/westernfood.webp" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
 						</svg>
 						<h2 class="fw-normal">Western Food</h2>
-						<p>Another exciting bit of representative placeholder content. This time, we've moved on to the
-							second column.</p>
-						<p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+						<p>Selami pengalaman kuliner Barat di meja makan Anda dengan resep yang menggoda.</p>
+						<p><a class="btn btn-secondary" href="westernfood.php">View details</a></p>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-lg-4">
 						<svg class="bd-placeholder-img rounded-circle" width="140" height="140"
@@ -83,8 +81,8 @@
 							<image xlink:href="images/indonesiafood.webp" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
 						</svg>
 						<h2 class="fw-normal">indonesian food</h2>
-						<p>And lastly this, the third column of representative placeholder content.</p>
-						<p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+						<p>Jelajahi kelezatan khas Indonesia di dapur Anda dengan resep makanan tradisional.</p>
+						<p><a class="btn btn-secondary" href="makanan.php">View details</a></p>
 					</div><!-- /.col-lg-4 -->
 				</div><!-- /.row -->
 
@@ -95,10 +93,10 @@
 
 				<div class="row featurette">
 					<div class="col-md-7">
-						<h2 class="featurette-heading fw-normal lh-1">First featurette heading. <span
-								class="text-body-secondary">It’ll blow your mind.</span></h2>
-						<p class="lead">Some great placeholder content for the first featurette here. Imagine some
-							exciting prose here.</p>
+						<h2 class="featurette-heading fw-normal lh-1">Bahan Pangan<span
+								class="text-body-secondary"></span></h2>
+						<p class="lead">Pilihlah bahan pangan dengan bijak, karena kualitas makanan bermula dari seleksi yang tepat.
+							 Keputusan Anda hari ini menciptakan dasar untuk kesehatan dan kenikmatan di masa depan.</p>
 					</div>
 					<div class="col-md-5">
 						<svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
@@ -117,10 +115,11 @@
 
 				<div class="row featurette">
 					<div class="col-md-7 order-md-2">
-						<h2 class="featurette-heading fw-normal lh-1">Oh yeah, it’s that good. <span
-								class="text-body-secondary">See for yourself.</span></h2>
-						<p class="lead">Another featurette? Of course. More placeholder content here to give you an idea
-							of how this layout would work with some actual real-world content in place.</p>
+						<h2 class="featurette-heading fw-normal lh-1">Memasak Dengan Nyaman<span
+								class="text-body-secondary">.</span></h2>
+						<p class="lead">Pilih kenyamanan setiap kali memasak, karena dapur adalah panggung kreasi.
+                            Saat Anda merasa nyaman, setiap hidangan menjadi karya seni penuh cinta. Nikmati setiap
+                            momen di dapur Anda!</p>
 					</div>
 					<div class="col-md-5 order-md-1">
 						<svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
@@ -138,11 +137,11 @@
 
 				<div class="row featurette">
 					<div class="col-md-7">
-						<h2 class="featurette-heading fw-normal lh-1">And lastly, this one. <span
-								class="text-body-secondary">Checkmate.</span></h2>
-						<p class="lead">And yes, this is the last block of representative placeholder content. Again,
-							not really intended to be actually read, simply here to give you a better view of what this
-							would look like with some actual content. Your content.</p>
+						<h2 class="featurette-heading fw-normal lh-1">Nikmati Makanan<span
+								class="text-body-secondary"></span></h2>
+						<p class="lead">Setiap suap adalah kisah cita rasa yang telah dipersembahkan dalam setiap panci
+                            dan wajan. Nikmati momen makan dengan masakan yang penuh dedikasi, karena di setiap hidangan
+                            terdapat cerita cinta yang melibatkan rasa, aroma, dan kelezatan.</p>
 					</div>
 					<div class="col-md-5">
 						<svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"

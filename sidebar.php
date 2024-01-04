@@ -6,46 +6,43 @@
 		</button>
 	</div>
 	<div class="p-4">
-		
-		<div class="img bg-wrap text-center py-4 pt-2" style="background-image: url(images/bg_foto2.webp);">
-			<div class="user-logo">
-				<div class="img" style="background-image: url(images/profilkosong.jpg);"></div>
-				<h3>username</h3>
-			</div>
-		</div>
-		<h1><a class="pt-2 text-center py-4 mb-5 hungry" style="color :white">hungry partner</a></h1>
+	<img src="login/images/salad.png" alt="IMG" width=200px>
+		<h1><a class="pt-2 text-center py-4 mb-5 hungry" style="color :white">Hungry Partner</a></h1>
 		<ul class="list-unstyled components mb-5">
 			<li>
-				<a href="home.php">home</a>
+				<a href="home.php">Home</a>
 			</li>
 			<li>
-				<a href="trending.php">trending food</a>
+				<a href="trending.php">Popular Recipes</a>
 			</li>
 			<li class="active">
-				<a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Resep</a>
+				<a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Recipes</a>
 				<ul class="collapse list-unstyled" id="homeSubmenu">
 					<li>
-						<a href="makanan.php">masakan indonesia</a>
+						<a href="makanan.php">Indonesia Food</a>
 					</li>
 					<li>
-						<a href="westernfood.php">western food</a>
+						<a href="westernfood.php">Western Food</a>
 					</li>
 					<li>
-						<a href="makananringan.php">makanan ringan</a>
+						<a href="makananringan.php">Snacks</a>
 					</li>
 					<li>
-						<a href="dessert.php">dessert</a>
+						<a href="dessert.php">Dessert</a>
 					</li>
 					<li>
-						<a href="minuman.php">minuman</a>
+						<a href="minuman.php">Drinks</a>
 					</li>
 				</ul>
+			</li>
+			<li>
+				<a href="tambah.php">Add Recipe</a>
 			</li>
 			<li>
 				<a href="contact.php">Contact</a>
 			</li>
 			<li>
-				<a href="login/login.php">logout</a>
+				<a href="login/login.php">Logout</a>
 			</li>
 		</ul>
 

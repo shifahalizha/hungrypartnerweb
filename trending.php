@@ -34,8 +34,8 @@
         <div id="content" class="p-4 p-md-5 pt-5">
             <div class="row text-center text-white mb-5">
                 <div class="col-lg-7 mx-auto">
-                    <h1 class="display-4">menu masakan tren</h1>
-                    <h2 class="mb-4" style="font-size: 20px;">yuk kita buat</h2>
+                    <h1 class="display-4">Popular Recipes</h1>
+                    <h2 class="mb-4" style="font-size: 20px;">you should try!</h2>
                 </div>
             </div>
             <div class="row">
